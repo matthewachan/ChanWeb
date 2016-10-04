@@ -2,6 +2,10 @@
   "name": "chanweb",
   "version": "0.0.0",
   "license": "MIT",
+  "engines": {
+    "node": "4.x.x",
+    "npm": "3.x.x",
+  },
   "angular-cli": {},
   "scripts": {
     "start": "http-server",
