@@ -1,10 +1,10 @@
-import { ChanwebPage } from './app.po';
+import { BananasPage } from './app.po';
 
-describe('chanweb App', function() {
-  let page: ChanwebPage;
+describe('bananas App', function() {
+  let page: BananasPage;
 
   beforeEach(() => {
-    page = new ChanwebPage();
+    page = new BananasPage();
   });
 
   it('should display message saying app works', () => {
